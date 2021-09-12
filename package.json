@@ -1,0 +1,15 @@
+{
+  "name": "personal-assistant",
+  "version": "1.0.0",
+  "description": "Node app that reminds me to take water after some time and do some other funny stuff as well.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramesh Karki",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.0",
+    "node-schedule": "^2.0.0"
+  }
+}
